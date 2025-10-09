@@ -1,5 +1,6 @@
 📱 **Mobile Sales Data Analysis**
-📘 Project Overview
+
+📘 **Project Overview**
 
 This project involves a comprehensive analysis of a Mobile Sales Dataset to uncover actionable insights about sales performance, pricing trends, and customer preferences. The main goal is to identify factors that contribute to higher mobile sales and understand overall sales behavior across various brands and models.
 
